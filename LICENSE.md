@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 priteshhirpara17
+Copyright (c) 2023 priteshhirpara17 and vrundatechnologies
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this repository and associated documentation files (the "Repository"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Repository, and to permit persons to whom the Repository is furnished to do so, subject to the following conditions:
 
