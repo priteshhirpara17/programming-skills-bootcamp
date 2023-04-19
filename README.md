@@ -38,6 +38,11 @@ The code and projects in this repository are strictly for learning purposes only
 
 This repository contains code examples for different programming languages and concepts. The code is organized by language and topic, and includes comments and explanations to help you understand how it works.
 
+|Curriculum|        |
+|----------|--------|
+| [Week 1](/Week1/) | - [Day 2](/Week1/Day2/)  |
+
+
 ## Projects
 
 The bootcamp includes several projects designed to help you practice and apply your programming skills. Each project includes a set of requirements and instructions for completing it. You can find the projects in the projects folder of this repository.
