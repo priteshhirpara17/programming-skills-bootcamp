@@ -40,7 +40,7 @@ This repository contains code examples for different programming languages and c
 
 |Curriculum|        |
 |----------|--------|
-| [Week 1](/Week1/) | - [Day 2](/Week1/Day2/)  |
+| [Week 1](/Week1/) |<li>[Day 2](/Week1/Day2/)</li>|
 
 
 ## Projects
