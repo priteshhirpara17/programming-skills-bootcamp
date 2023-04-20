@@ -22,11 +22,18 @@ class javaOperatorsExample{
         System.out.println("Less than or equal "+(x<=y));
         System.out.println("Greater than "+(x>=y));
         System.out.println("Equals "+(x==y));
+        System.out.println("Not Equals "+(x!=y));
 
         //logical
         //condition -> (value R.O. value)
-        // && and -> and require every condition to be true
-        //x>y && x<z //x>y->true , x<z-> true
+        // && and -> and requires every conditions must be true
+        // || or  -> or requires any one or all conditions to be true
+        // ! not -> not flips the ans from true to false and vice versa
+        //x>y && x<z //x>y->true , x<z-> true -> true
+        //x>y && x<z //x>y->true , x<z-> false -> false
+        //x>y || x<z //x>y->true , x<z->true -> true
+        //x>y || x<z //x>y->true , x<z->false -> true
+
 
         //conditional operator
         // condition ? true : false;
