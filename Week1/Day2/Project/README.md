@@ -4,7 +4,7 @@
 
  Store an email and password in respective variables, compare them to a set of predefined email and password values(suppose that the second values are provided by user), and then either grant access or deny it based on whether or not the input values match
 
-### Suggestions
+## Suggestions
 
 ```java
 String email="demo@email.com";
@@ -13,7 +13,7 @@ String userEmail="demo1@email.com";
 String userPassword="234";
 ```
 
-### Pseudocode
+## Pseudocode
 
 1. store an email (consider this email as pre stored value)
 2. store a password(consider this password as pre stored value)
