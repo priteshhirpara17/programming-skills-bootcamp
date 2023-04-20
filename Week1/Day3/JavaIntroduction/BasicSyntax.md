@@ -23,6 +23,7 @@ The first step is to write your Java code using a text editor such as Notepad, T
 ### Step 2: Compile the Code
 
 >Note: Make sure you are in the exact directory where you have created file.
+
 The second step is to compile the Java code using the Java compiler **_(javac)_**. To do this, open a terminal or command prompt, navigate to the directory where your **_.java_** file is saved, and type the following command:
 
 ```cmd
@@ -32,6 +33,7 @@ javac MyProgram.java
 ### Step 3: Run the Program
 
 >Note: Make sure you are in the exact directory where you have created file.
+
 The final step is to run the program using the Java Virtual Machine (JVM) by typing the following command in the terminal:
 
 ```cmd
