@@ -12,9 +12,6 @@ class B extends A{
         System.out.println(name+"'s Email is "+email);
     }
 }
-class C extends B{
-
-}
 
 public class Inheritance {
     public static void main(String[] args) {

@@ -6,8 +6,8 @@ class JavaProjectSolution {
         String password = "123";
         String userEmail = "demo1@email.com";
         String userPassword = "234";
-        if(email==userEmail){
-            if(password==userPassword){
+        if(email.equals(userEmail)){
+            if(password.equals(userPassword)){
                 System.out.println("Success");
             }else{
                 System.out.println("Wrong Credentials");

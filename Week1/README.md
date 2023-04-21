@@ -13,3 +13,10 @@
  [Variables, data types](/Week1/Day2/VariablesAndDataTypes/javaExample.java), [operators](/Week1/Day2/Operators/javaOperatorsExample.java), and [control flow](Day3/ControlFlowStatements/) in Java
   - Introduction to [object-oriented programming (OOP)](Day3/OOP/) concepts in Java, such as [classes, objects, methods](/Week1/Day3/OOP/ClassAndObject.java), and [inheritance](/Week1/Day3/OOP/Inheritance.java)
   - Homework assignment: Practice coding exercises in Java
+
+- ## [Day 4: Intermediate Java](/Week1/Day4/)
+  
+  - Deeper dive into OOP concepts in Java, including [polymorphism](/Week1/Day4/Polymorphism/), [interface](/Week1/Day4/Interface/), and [abstraction](/Week1/Day4/Abstract/)
+  - [Exception handling](/Week1/Day4/ExceptionHandling/)  in Java, including try-catch blocks and error handling
+  - Introduction to Java [lists and hashmaps](/Week1/Day4/ListsAndHashmaps/) and basic [I/O operations](/Week1/Day4/ListsAndHashmaps/)
+  - Homework assignment: Practice coding exercises in Java

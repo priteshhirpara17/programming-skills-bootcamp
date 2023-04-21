@@ -1,8 +1,0 @@
-//Create an login system using class and object
-
-Step1: store a pre defined email
-Step2: store a pre defined password
-Step3: get email and password from user
-Step4: compare them to pre defined values
-Step5: if matches print success else wrong credentials
-Step6: Exit Program 
