@@ -15,11 +15,11 @@ Welcome to the Programming Skills Bootcamp! This repository contains code and pr
 
 ## About the Bootcamp
 
-The Programming Skills Bootcamp is a training program designed for students who want to develop their programming skills. The bootcamp covers a range of topics, including programming languages, data structures and algorithms, web development, and more. The bootcamp includes projects and exercises to help students practice and apply their skills.
+The Programming Skills Bootcamp is a training program designed for students who want to develop their programming skills. The bootcamp covers a range of topics, including programming languages, github repository management, web development, app development and more. The bootcamp includes projects and exercises to help students practice and apply their skills.
 
 ## Purpose
 
-The purpose of this repository is to provide a resource for students who are interested in improving their programming skills. The programs and projects in this repository cover a wide range of topics and technologies, from basic programming concepts to more advanced topics such as web development and data analysis.
+The purpose of this repository is to provide a resource for students who are interested in improving their programming skills. The programs and projects in this repository cover a wide range of topics and technologies, from basic programming concepts to more advanced topics such as web development and app development.
 
 ## Getting Started
 
@@ -41,7 +41,6 @@ This repository contains code examples for different programming languages and c
 |Curriculum|        |
 |----------|--------|
 | [Week 1](/Week1/) |<li>[Day 2](/Week1/Day2/)</li><li>[Day 3](/Week1/Day3/)</li><li>[Day 4](/Week1/Day4/)</li>|
-
 
 ## Projects
 
