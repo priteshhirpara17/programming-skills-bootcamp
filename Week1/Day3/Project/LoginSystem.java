@@ -2,8 +2,8 @@ package Week1.Day3.Project;
 
 import java.util.Scanner;
 
-public class LoginSystem {//step 1
-    //step 2
+class Login {
+    
     private String email;
     private String password;
     Scanner sc = new Scanner(System.in);
@@ -13,7 +13,7 @@ public class LoginSystem {//step 1
         password="password";
     }
 
-    public void login() {
+    public void signin() {
         System.out.print("Enter Email: ");
         String userEmail = sc.nextLine();
         System.out.print("Enter Password: ");
@@ -25,10 +25,12 @@ public class LoginSystem {//step 1
             System.out.println("Wrong Credentials");
         }
     }
-
+   
+}
+public class LoginSystem{
     public static void main(String[] args) {
-        LoginSystem system = new LoginSystem();
-        system.setCredentials();
-        system.login();
+        Login login = new Login();
+        login.setCredentials();
+        login.signin();
     }
 }
