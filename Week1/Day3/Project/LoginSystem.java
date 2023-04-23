@@ -34,3 +34,16 @@ public class LoginSystem{
         login.signin();
     }
 }
+/*
+ *      == checks if both objects are same or not
+ *      .equals() checks if both string objects are having same value or not
+ *      String s1="hello";
+ *      String s2="hi";
+ *      String s3=s1;
+ *      String s4="hello";
+ *        
+ *      s1==s4->false
+ *      s1==s4->true
+ *      s1.equals(s2);->false
+ *      s1.equals(s4);->true
+ */
