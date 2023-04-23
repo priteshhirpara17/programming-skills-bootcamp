@@ -6,9 +6,9 @@ This project involves creating a user registration and verification system using
 
 ### 1. User Registration
 
-* Create a class User to store user information, with instance variables email and password.
+* Create a class **_Authentication_** to store user information, with instance variables **_email_** and **_password_**.
 * Take input from the user for their email and password.
-* Create an object of User and store the user data into a list/hashmap.
+* Create an object of **_Hashmap_** and store the user data into a list/hashmap.
 
 ### 2. User Verification
 
