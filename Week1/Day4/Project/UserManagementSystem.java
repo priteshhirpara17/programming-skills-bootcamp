@@ -28,7 +28,7 @@ class Authentication {
 
                 // Adding the new user to the hashmap
                 userMap.put(email, password);
-                System.out.println("User Has Been Registered Successfully!");
+                System.out.println("User Has Been Registered Successfully! : ");
             } else {
                 // Notifying the user if the user already exists
                 System.out.println("User Already Registered!");
