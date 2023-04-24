@@ -20,3 +20,9 @@
   - [Exception handling](/Week1/Day4/ExceptionHandling/)  in Java, including try-catch blocks and error handling
   - Introduction to Java [lists and hashmaps](/Week1/Day4/ListsAndHashmaps/) and basic [I/O operations](/Week1/Day4/ListsAndHashmaps/)
   - Homework assignment: Practice coding exercises in Java
+
+- ## [Day 5: Advanced Java](/Week1/Day5/)
+
+  - Advanced topics in Java, such as multithreading.
+  - Recap of the week
+  - Q/A and Discussion
