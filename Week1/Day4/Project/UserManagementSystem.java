@@ -98,6 +98,7 @@ public class UserManagementSystem {
                 case 1:
                     // Registering a new user
                     auth.register();
+                    
                     break;
                 case 2:
                     // Logging in a user
