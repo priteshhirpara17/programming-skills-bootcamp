@@ -23,6 +23,6 @@
 
 - ## [Day 5: Advanced Java](/Week1/Day5/)
 
-  - Advanced topics in Java, such as multithreading.
+  - Advanced topics in Java, such as [multithreading](/Week1/Day5/Multithreading/).
   - Recap of the week
   - Q/A and Discussion
