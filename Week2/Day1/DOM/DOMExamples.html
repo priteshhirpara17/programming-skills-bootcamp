@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>DOM Example</title>
+</head>
+<body>
+        <p id="one">Hello</p>
+        <b class="two">Hi</b>
+        <i>How are you?</i>
+        <code id="demo">This is code</code>
+            <select id="menu">
+                <option>Hi</option>
+                <option>Hello</option>
+            </select>
+            <button id="myBtn" value="hello-btn">Hello</button>
+        <script>
+            var x=document.getElementById("one");
+            console.log(x.innerText);
+            var y=document.getElementsByClassName("two");
+            console.log(y);
+            var z=document.getElementsByTagName("i");
+            console.log(z[0].innerText);
+
+            var newEl=document.createElement("u");
+            newEl.innerText="This is example";
+            document.body.append(newEl);
+
+
+            var removeEL=document.getElementById("demo");
+            removeEL.parentNode.removeChild(removeEL);
+
+            var pTag=document.getElementById("one");
+            pTag.style.color="red";
+            pTag.style.fontSize="20px";
+
+            var menu=document.getElementById("menu");
+
+            menu.addEventListener("change",function(e){
+                    console.log(this.value);
+            });
+            var btn=document.getElementById("myBtn");
+            btn.addEventListener("click",function(e){
+                console.log(this.value);
+            });
+
+        </script>
+</body>
+</html>
