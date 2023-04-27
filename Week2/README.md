@@ -13,3 +13,10 @@
   - Overview of their features, use cases, and examples
   - Practical exercises and demonstrations using selected JavaScript flavors
   - Homework assignment: Create a simple project using one of the JavaScript flavors
+
+- ## [Day 8: Introduction to Modern Languages](/Week2/Day3/)
+
+  - Overview of modern programming languages, such as Kotlin and Dart
+  - Comparison with Java and JavaScript in terms of syntax, features, and use cases
+  - Introduction to Android app development with Kotlin and Flutter app development with Dart
+  - Homework assignment: Practice coding exercises in Kotlin or Dart, create a simple project
