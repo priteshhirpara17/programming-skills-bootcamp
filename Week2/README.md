@@ -14,7 +14,7 @@
   - Practical exercises and demonstrations using selected JavaScript flavors
   - Homework assignment: Create a simple project using one of the JavaScript flavors
 
-- ## [Day 8: Introduction to Modern Languages](/Week2/Day3/)
+- ## [Day 3: Introduction to Modern Languages](/Week2/Day3/)
 
   - Overview of modern programming languages, such as Kotlin and Dart
   - Comparison with Java and JavaScript in terms of syntax, features, and use cases
