@@ -39,7 +39,7 @@ After cloning a repository, you can make changes to the code and push those chan
 1. Open the repository in a text editor or integrated development environment (IDE).
 2. Make the desired changes to the code.
 3. Save the changes.
-4. Open a terminal or command prompt on your local machine.
+4. Open a **_terminal_** or command prompt on your local machine.
 5. Type ```git add``` . and press Enter. This will add all the changes to the staging area.
 6. Type ```git commit -m "<commit message>"``` and press Enter. This will create a new commit with a commit message describing the changes.
 7. Type ```git push``` and press Enter. This will push the changes to GitHub.
