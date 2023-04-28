@@ -19,7 +19,7 @@ Having a GitHub portfolio also allows you to collaborate with other programmers,
 
 1. To create a GitHub portfolio, you first need to create a GitHub account. You can sign up for a free account at github.com.
 
-2. Once you have a GitHub account, you can create a repository by clicking on the "New" button on your profile page. You can then name your repository, provide a description, and choose whether to make it public or private.
+2. Once you have a GitHub account, you can create a repository by clicking on the **_"New"_** button on your profile page. You can then name your repository, provide a description, and choose whether to make it public or private.
 
 3. You can also create multiple repositories for different projects, and manage them from your GitHub account.
 

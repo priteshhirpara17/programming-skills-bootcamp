@@ -1,10 +1,10 @@
 # Introduction to GitHub
 
-GistHub is a web-based platform used for version control and collaborative software development. It is widely used by programmers to store and manage their code, collaborate with other developers, and showcase their projects to potential employers or clients. In this tutorial, we will cover the basics of using GitHub, including how to fork a repository.
+GitHub is a web-based platform used for version control and collaborative software development. It is widely used by programmers to store and manage their code, collaborate with other developers, and showcase their projects to potential employers or clients. In this tutorial, we will cover the basics of using GitHub, including how to fork a repository.
 
 ## Setting Up a GitHub Account
 
-To use GitHub, you need to create an account. Go to the [GitHub website](https://github.com/) and click on the "Sign up" button. Follow the instructions to create a new account.
+To use GitHub, you need to create an account. Go to the [GitHub website](https://github.com/) and click on the **_"Sign up"_** button. Follow the instructions to create a new account.
 
 ## Forking a Repository
 
