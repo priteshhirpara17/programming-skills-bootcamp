@@ -20,3 +20,10 @@
   - Comparison with Java and JavaScript in terms of syntax, features, and use cases
   - Introduction to Android app development with Kotlin and Flutter app development with Dart
   - Homework assignment: Practice coding exercises in Kotlin or Dart, create a simple project
+
+- ## Day 4: GitHub Portfolio and Project Showcasing
+
+  - Importance of creating a GitHub portfolio for showcasing coding projects
+  - Overview of creating a GitHub account, setting up repositories, and managing projects
+  - Demonstrating how to showcase bootcamp projects on GitHub for potential employers or clients
+  - Homework assignment: Create a GitHub portfolio and showcase bootcamp projects
