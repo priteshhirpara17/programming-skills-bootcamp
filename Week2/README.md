@@ -21,7 +21,7 @@
   - Introduction to Android app development with Kotlin and Flutter app development with Dart
   - Homework assignment: Practice coding exercises in Kotlin or Dart, create a simple project
 
-- ## Day 4: GitHub Portfolio and Project Showcasing
+- ## [Day 4: GitHub Portfolio and Project Showcasing](/Week2/Day4/)
 
   - Importance of creating a GitHub portfolio for showcasing coding projects
   - Overview of creating a GitHub account, setting up repositories, and managing projects
