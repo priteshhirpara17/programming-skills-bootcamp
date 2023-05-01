@@ -27,3 +27,9 @@
   - Overview of creating a GitHub account, setting up repositories, and managing projects
   - Demonstrating how to showcase bootcamp projects on GitHub for potential employers or clients
   - Homework assignment: Create a GitHub portfolio and showcase bootcamp projects
+
+- ## [Day 5: Project Development - Java](/Week2/Day5/)
+  - Recap of Java fundamentals covered in previous sessions
+  - Introduction to real-world project development using Java
+  - Understanding project requirements and planning project development
+  - Practical exercises and coding examples using Java for project development

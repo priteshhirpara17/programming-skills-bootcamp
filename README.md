@@ -41,7 +41,7 @@ This repository contains code examples for different programming languages and c
 |Curriculum|        |
 |----------|--------|
 | [Week 1](/Week1/) |<li>[Day 1 - Orientation and Commencement](README.md)</li><li>[Day 2 - Fundamentals of Programming](/Week1/Day2/)</li><li>[Day 3 - Introduction to Java](/Week1/Day3/)</li><li>[Day 4 - Intermediate Java](/Week1/Day4/)</li><li>[Day 5 - Advanced Java](/Week1/Day5/)</li>|
-|[Week 2](/Week2/)|<li>[Day 1 - Introduction to JavaScript](/Week2/Day1/)</li><li>[Day 2 - Flavors of JavaScript](/Week2/Day2/)</li><li>[Day 3 - Introduction to Modern Languages](/Week2/Day3/)</li><li>[Day 4 - GitHub Portfolio and Project Showcasing](/Week2/Day3/)</li>|
+|[Week 2](/Week2/)|<li>[Day 1 - Introduction to JavaScript](/Week2/Day1/)</li><li>[Day 2 - Flavors of JavaScript](/Week2/Day2/)</li><li>[Day 3 - Introduction to Modern Languages](/Week2/Day3/)</li><li>[Day 4 - GitHub Portfolio and Project Showcasing](/Week2/Day4/)</li><li>[Day 5 - Project Development - Java](/Week2/Day5/)</li>|
 
 ## Projects
 
