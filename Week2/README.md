@@ -29,6 +29,7 @@
   - Homework assignment: Create a GitHub portfolio and showcase bootcamp projects
 
 - ## [Day 5: Project Development - Java](/Week2/Day5/)
+
   - Recap of Java fundamentals covered in previous sessions
   - Introduction to real-world project development using Java
   - Understanding project requirements and planning project development
