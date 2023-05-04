@@ -32,7 +32,7 @@ To set up the project, follow these steps:
 
 ## NewApi Key Generation
 
-1. Go to the News API website at https://newsapi.org.
+1. Go to the News API website at <https://newsapi.org>.
 2. Click on the **_"Get API Key"_** button on the homepage.
 3. Sign up for a free account by providing your email address and creating a password.
 4. Once you have signed up, you will be redirected to your News API dashboard.
