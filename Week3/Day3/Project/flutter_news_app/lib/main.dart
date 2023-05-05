@@ -48,66 +48,66 @@ class _NewsListPageState extends State<NewsListPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text("News App"),
-      ),
-      body:RefreshIndicator(
-        child: ListView.builder(
-          itemCount: _articles.length,
-          itemBuilder: (context, index) {
-            return InkWell(
-              onTap: () {
-                if(_articles[index]!=null){
-                  Navigator.push(
-                    context,
-                    MaterialPageRoute(
-                      builder: (context) =>
-                          NewsDetailPage(article: _articles[index]),
-                    ),
-                  );
-                }
-              },
-              child: Card(
-                child: Padding(
-                  padding: const EdgeInsets.all(16.0),
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Image.network(
-                        _articles[index]['urlToImage']==null?"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png":_articles[index]['urlToImage'],
-                        height: 200,
-                        width: double.infinity,
-                        fit: BoxFit.cover,
-                      ),
-                      SizedBox(height: 10),
-                      Text(
-                        _articles[index]['title'].toString(),
-                        style: TextStyle(
-                          fontSize: 20,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                      SizedBox(height: 10),
-                      Text(
-                        _articles[index]['description'].toString(),
-                        maxLines: 3,
-                        overflow: TextOverflow.ellipsis,
-                      ),
-                    ],
-                  ),
-                ),
-              ),
-            );
-          },
+        appBar: AppBar(
+          title: Text("News App"),
         ),
-        onRefresh: ()async{
-          await Future.delayed(Duration(seconds: 1));
-          setState(() {
-            fetchArticles();
-          });
-        }
-      )
-    );
+        body: RefreshIndicator(
+            child: ListView.builder(
+              itemCount: _articles.length,
+              itemBuilder: (context, index) {
+                return InkWell(
+                  onTap: () {
+                    if (_articles[index] != null) {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) =>
+                              NewsDetailPage(article: _articles[index]),
+                        ),
+                      );
+                    }
+                  },
+                  child: Card(
+                    child: Padding(
+                      padding: const EdgeInsets.all(16.0),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Image.network(
+                            _articles[index]['urlToImage'] == null
+                                ? "https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png"
+                                : _articles[index]['urlToImage'],
+                            height: 200,
+                            width: double.infinity,
+                            fit: BoxFit.cover,
+                          ),
+                          SizedBox(height: 10),
+                          Text(
+                            _articles[index]['title'].toString(),
+                            style: TextStyle(
+                              fontSize: 20,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          SizedBox(height: 10),
+                          Text(
+                            _articles[index]['description'].toString(),
+                            maxLines: 3,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+                );
+              },
+            ),
+            onRefresh: () async {
+              await Future.delayed(Duration(seconds: 1));
+              setState(() {
+                fetchArticles();
+              });
+            }));
   }
 }
 
@@ -127,7 +127,9 @@ class NewsDetailPage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Image.network(
-              article['urlToImage']==null?"https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png":article['urlToImage'],
+              article['urlToImage'] == null
+                  ? "https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png"
+                  : article['urlToImage'],
               height: 200,
               width: double.infinity,
               fit: BoxFit.cover,
